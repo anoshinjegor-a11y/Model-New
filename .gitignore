@@ -1,0 +1,8 @@
+.claude/
+.playwright-mcp/
+.remember/
+.idea/
+.vscode/
+.DS_Store
+.~lock.*
+*.log
